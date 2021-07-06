@@ -1,6 +1,6 @@
 <div align=center>
   
-# About Me
+# 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖
 ```
 Aspiring coder ✨ -- Student
 ```
