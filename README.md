@@ -5,7 +5,10 @@
 Aspiring coder ✨ -- Student
 ```
 
+<a href="https://github.com/b0kch01">
+  
 ![Metrics](github-metrics.svg)
 
+</a>
 
 </div>
